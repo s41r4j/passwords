@@ -39,3 +39,10 @@ Let's revolutionize PASSWORDS!
 ||
 |---|
 |![advantages](https://github.com/s41r4j/passwords/assets/65067289/e96efdfb-a8cf-4fc5-801d-00b4ade7c5a3)|
+
+
+
+<br>
+
+#### Available Tools: [LessPass](https://www.lesspass.com), [Spectre](https://spectre.app/), [SuperGenPass](https://chriszarate.github.io/supergenpass/), [PwdHash](https://crypto.stanford.edu/PwdHash/), and [Hashapass](http://hashapass.com).
+
